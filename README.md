@@ -4,7 +4,7 @@ Requis :
 - composer installer
 
 Initialiser le projet : 
-  composer install 
+ - composer install 
   
 executer : 
-  php src/test.php
+  - php src/test.php
